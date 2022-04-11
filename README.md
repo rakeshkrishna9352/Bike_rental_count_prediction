@@ -12,4 +12,4 @@ Ridesharing has grown substantially in India and around the globe. Parallel to t
 - Using Hyperparameter tuning to optimise the model by traning the model with training set using GridSearchCV.
 
 ## Model Report
-- The model achieved a R2 score of 89.0% on test set.
+- Improvement The model achieved a R2 score of 89.0% on test set.
